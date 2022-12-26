@@ -1,0 +1,4 @@
+map_name: WW2_NWO_Neutrals_Politics
+games:
+- {game_name: WW2 NWO Neutrals Politics, file_name: WW2_NWO_Neutrals_Politics.xml}
+version: 0
